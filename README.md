@@ -1,1 +1,2 @@
 # restaurant-page
+The Cosmic Christronaut's Cosmic Cafe is a fictional establishment; it doesn't exist in reality. Through this project, my aim is to showcase proficiency in developing a web application using webpack for efficient file assembly and dependency management. An observable feature is the seamless tab-switching functionality at the page's header. Rather than fetching separate HTML documents, JavaScript seamlessly manages the transitions within the webpage."

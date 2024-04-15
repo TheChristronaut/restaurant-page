@@ -19,7 +19,7 @@ export function loadAboutContent() {
 
         const about = document.createElement("div");
         about.classList.add("page-content-container");
-        about.textContent = "The Cosmic Chrononaut's Cosmic Cafe is a fictional establishment; it doesn't exist in reality. Through this project, my aim is to showcase proficiency in developing a web application using webpack for efficient file assembly and dependency management. An observable feature is the seamless tab-switching functionality at the page's header. Rather than fetching separate HTML documents, JavaScript seamlessly manages the transitions within the webpage.";
+        about.textContent = "The Cosmic Christronaut's Cosmic Cafe is a fictional establishment; it doesn't exist in reality. Through this project, my aim is to showcase proficiency in developing a web application using webpack for efficient file assembly and dependency management. An observable feature is the seamless tab-switching functionality at the page's header. Rather than fetching separate HTML documents, JavaScript seamlessly manages the transitions within the webpage.";
         content.appendChild(about);
     })
 }
